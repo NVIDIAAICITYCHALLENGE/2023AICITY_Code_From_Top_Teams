@@ -12,9 +12,11 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 
 
 ## Track 3: Naturalistic Driving Action Recognition
+* [JNU_boat - Team 60](https://github.com/RongchangLi/AICity2023_DrivingAction)
 
 
 ## Track 4: Multi-Class Product Counting & Recognition for Automated Retail Checkout
+* [BUPT - Team 21](https://github.com/mzl163/AICITY23_Task4)
 
 
 ## Track 5: Detecting Violation of Helmet Rule for Motorcyclists

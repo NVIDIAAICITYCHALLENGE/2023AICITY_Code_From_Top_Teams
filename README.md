@@ -21,8 +21,10 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 * [BUPT - Team 21](https://github.com/mzl163/AICITY23_Task4)
 * [Fujitsu R&D Center - Team 23](https://github.com/ShiZiqiang/aicity-23)
 * [SKKU Automation Lab - Team 33](https://github.com/phlong3105/deepacov2)
+* [Centific - Team 200](https://github.com/centific-aicoe/AICity-Prod-Counting-2023)
 
 
 ## Track 5: Detecting Violation of Helmet Rule for Motorcyclists
 * [CTC-AI - Team 58](https://github.com/caicai0352/aicity2023_track5_mhod)
 * [SKKU Automation Lab - Team 33](https://github.com/SKKU-AutoLab-VSW/Edge-TSS/tree/1.0/src/aic23/track_5)
+* [NYCU - Road Beast - Team55](https://github.com/NYCU-AICVLab/AICITY_2023_Track5)

@@ -9,6 +9,7 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 ## Track 2: Tracked-Vehicle Retrieval by Natural Language Descriptions
 * [HCMIU CVIP - Team 9](https://github.com/zef1611/AIC23_NLRetrieval_HCMIU_CVIP)
 * [AIO-NLRetrieve - Team 85](https://github.com/anminhhung/AI-City-2023-Track2)
+* [Ctyun-AI - Team 42](https://github.com/Mandy0016/2023AICITY-Track2-Code-6th)
 
 
 ## Track 3: Naturalistic Driving Action Recognition
@@ -18,6 +19,8 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 
 ## Track 4: Multi-Class Product Counting & Recognition for Automated Retail Checkout
 * [BUPT - Team 21](https://github.com/mzl163/AICITY23_Task4)
+* [Fujitsu R&D Center - Team 23](https://github.com/ShiZiqiang/aicity-23)
 
 
 ## Track 5: Detecting Violation of Helmet Rule for Motorcyclists
+* [CTC-AI - Team 58](https://github.com/caicai0352/aicity2023_track5_mhod)

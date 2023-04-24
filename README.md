@@ -27,6 +27,7 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 * [SKKU Automation Lab - Team 33](https://github.com/phlong3105/deepacov2)
 * [Centific - Team 200](https://github.com/centific-aicoe/AICity-Prod-Counting-2023)
 * [UToronto - Team 13](https://github.com/cycv5/AICityChallenge)
+* [SCU - Team 1](https://github.com/davidanastasiu/RetailCounter)
 
 
 ## Track 5: Detecting Violation of Helmet Rule for Motorcyclists

@@ -19,6 +19,7 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 * [Divedeeper - Team 83](https://github.com/vtccdivedeeper/2023AICityChallenge-Track3 )
 * [Purdue Digital Twin Lab - Team 8](https://github.com/PurdueDigitalTwin/M2DAR)
 * [Meituan-IoTCV - Team 209](https://github.com/Meituan-IoTCV/aicity_release)
+* [ctc-AI - Team 49](https://github.com/wolfworld6/Aicity2023-Track3)
 
 
 ## Track 4: Multi-Class Product Counting & Recognition for Automated Retail Checkout

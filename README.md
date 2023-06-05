@@ -5,6 +5,7 @@ Codes From Top Teams in 2023 AIC challenge (not in any particular order)
 * [HCMIU CVIP - Team 9](https://github.com/nguyenquivinhquang/Multi-camera-People-Tracking-With-Mixture-of-Realistic-and-Synthetic-Knowledge)
 * [Nota-NetsPresso - Team 38](https://github.com/nota-github/AIC2023_Track1_Nota)
 * [UWIPL_ETRI - Team 6](https://github.com/ipl-uw/AIC23_Track1_UWIPL_ETRI)
+* [SKKU SCIT - Team 20](https://github.com/yuntaeJ/SCIT-MCMT-Tracking)
 
 
 ## Track 2: Tracked-Vehicle Retrieval by Natural Language Descriptions
